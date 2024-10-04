@@ -49,3 +49,11 @@ After first time.
 ```bash
 git push
 ```
+
+### 7. Every time we do a change in codebase.
+
+Every time we do any kind of change in the code base we need to repeat 3 steps.
+
+1. Adding the files.
+2. Committing the changes.
+3. Pushing the Local Changes.
